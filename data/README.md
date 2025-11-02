@@ -9,8 +9,11 @@ Finding the minimum set of roads that connect all city districts with the lowest
 - **Prim's Algorithm** - O(E log V) with binary heap
 - **Kruskal's Algorithm** - O(E log E) with union-find
 
+## 📊 Features
+- MST cost calculation
 - Operation counting
 - Execution time measurement
+- JSON input/output
 - Performance comparison
 
 ## 🛠️ How to Run
