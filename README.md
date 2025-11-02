@@ -150,6 +150,32 @@ java -cp out presentation.cli.Main
 
 ---
 
+## 📊 Dataset Information
+
+### Sample Dataset 1: Medium City (5 Districts)
+- **Vertices**: 5 districts (A, B, C, D, E)
+- **Edges**: 7 possible road connections
+- **MST Cost**: 16 (optimal solution)
+- **Density**: Moderate connectivity
+
+### Sample Dataset 2: Small City (4 Districts)  
+- **Vertices**: 4 districts (A, B, C, D)
+- **Edges**: 5 possible road connections
+- **MST Cost**: 6 (optimal solution)
+- **Density**: High connectivity
+
+### Real-world Scenario
+- **Vertices** = City districts
+- **Edges** = Potential roads
+- **Weights** = Construction costs
+- **MST** = Minimum cost road network
+
+### File Location
+- Input data: `data/input/ass_3_input.json`
+- Output results: `data/output/ass_3_output.json`
+
+---
+
 ## 📝 Sample Input Format
 
 ```json
